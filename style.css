@@ -5,6 +5,10 @@
     box-sizing: border-box;
     text-decoration: none;
     
+    
+}
+body{
+    overflow-x: hidden;
 }
 /* -----------------section 1---------------------------------------------- */
 .section-1{
